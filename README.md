@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mujammal Ahmed</h1>
-<h3 align="center">A passionate full-stack developer from Sylhet</h3>
+<h3 align="center">A passionate developer from Sylhet</h3>
 
 
 - 🌱 I’m currently learning **Angular, Node-JS, MongoDB**
