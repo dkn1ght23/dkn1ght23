@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Sylhet</h3>
 
 
-- 🌱 I’m currently learning **Angular, Node-JS, MongoDB**
+<!-- - 🌱 I’m currently learning **Angular, Node-JS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://dkn1ght23.github.io/](https://dkn1ght23.github.io/)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mujammal.salman@gmail.com**
 
-- ⚡ Fun fact **I love to play football and have won few trophies**
+- ⚡ Fun fact **I love to play football and have won few trophies** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
