@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 * ✉️  You can contact me at [mujammal.salman@gmail.com](mailto:mujammal.salman@gmail.com)
-* 🚀  I'm currently working on [Technext Limited](http://https://technext.it/)
+* 🚀  I'm currently working at [Technext Limited](http://https://technext.it/)
 
 ### Skills
 
