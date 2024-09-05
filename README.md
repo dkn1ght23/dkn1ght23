@@ -59,10 +59,10 @@
  ✌️ &emsp; Enjoy problem solving <br/><br/>
  ❤️ &emsp; Love to learning new features<br/><br/>
  📧 &emsp; Reach me anytime: mujammal.salman@gmail.com<br/><br/> -->
- I am a Software Engineer specializing in full-stack web development and problem solving.
- 🔭 I’m currently working on Geeks Blogger, a full-stack blogging platform built with Node.js, Express, React, and Redux Toolkit.
-🌱 I’m always learning and improving my skills in TypeScript, GoLang, and advanced algorithms through competitive programming.
-👯 I’m open to collaborating on open-source projects or exciting web applications.
+ I am a Software Engineer specializing in full-stack web development and problem solving. <br/><br/>
+ 🔭 I’m currently working on Geeks Blogger, a full-stack blogging platform built with Node.js, Express, React, and Redux Toolkit. <br/><br/>
+🌱 I’m always learning and improving my skills in TypeScript, GoLang, and advanced algorithms through competitive programming. <br/><br/>
+👯 I’m open to collaborating on open-source projects or exciting web applications. <br/><br/>
 
 </p>
 
@@ -75,11 +75,7 @@
 ### Languages
 
 **Languages:**
-- ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-- ![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **Technologies/Frameworks:**
 - ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
