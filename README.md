@@ -1,54 +1,7 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
 
-<!--
-<p align="center">
-  <a href="https://github.com/mujammal"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-
-
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/mujammal-ahmed/">Mujammal Ahmed</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    「 I am a software engineer from <b>Bangladesh</b> 」
-    <br>
-  </samp>
-</p>
-
-<p align="center">
-  <!--
- <a href="https://mujammal.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mujammal" />
- </a>-->
- <a href="https://www.linkedin.com/in/mujammal-ahmed/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mujammal"/>
- </a>
- <!-- <a href="https://dev.to/mujammal" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="mujammal" />
- </a> -->
- <a href="https://twitter.com/ahmed_mujammal" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.facebook.com/mujammal.ahmed.5" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mujammal"  />
-  </a> 
-</p>
-<br />
+<!-- Intro -->
+# <a target="_blank" href="https://www.linkedin.com/in/mujammal-ahmed/">Mujammal Ahmed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+**`CodeSmith`**
 
  <!-- About Section -->
  # About me
@@ -63,14 +16,13 @@
  🔭 I’m currently working on Geeks Blogger, a full-stack blogging platform built with Node.js, Express, React, and Redux Toolkit. <br/><br/>
 🌱 I’m always learning and improving my skills in TypeScript, GoLang, and advanced algorithms through competitive programming. <br/><br/>
 👯 I’m open to collaborating on open-source projects or exciting web applications. <br/><br/>
-
 </p>
-
-<br/>
-<br/>
 <br/>
 
+
+<!-- Skills Section -->
 ### Languages I have used
+
   ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=007acc&logo=typescript&logoColor=white) ![Go Lang](https://img.shields.io/badge/Go_Lang-6AD7E5?style=for-the-badge&logo=go&logoColor=black&labelColor=6AD7E5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 
 ### Some of the technologies I have worked with
@@ -85,18 +37,34 @@
 ### Tools
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-770055?style=for-the-badge&logo=WebStorm&logoColor=white&labelColor=770055) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
 <br/>
 
 <p align="left">
   <a href="https://github.com/dkn1ght23?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
+#
+ <!-- Drop Down Section -->
+<details>
+  <summary> <h3> My Journey from Code Enthusiast to Software Engineer </h3> </summary>
+  
+  My journey into software engineering started well before my professional career. I’ve always been passionate about solving problems, which led me into competitive programming early on. Over time, I tackled more than 1200 problems across different platforms and participated in over 250 contests. Competitive programming helped me build a solid foundation in algorithms and data structures, and I earned recognition in the coding community of my university.
+  
+  After completing my B.Sc. in Computer Science & Engineering from Leading University, I began my professional journey as a Junior Software Engineer at Technext Limited, where I applied my skills to real-world projects like Eventgee, optimizing back-end performance with Express.js and improving user authentication, reducing response times by 40% and enhancing data security.
+  
+  In January 2024, I advanced my career by joining Hash Solution in Dubai as a Software Engineer (Remote), focusing on scalability and performance. I built microservices using GoLang and integrated them with React-based front-end systems, developing a responsive E-Invoice Solution with role-based access control (RBAC), blending front-end and back-end expertise to create a seamless product.
+  
+  From competitive coding to becoming a full-stack software engineer, my journey has been driven by a desire to solve complex problems and create impactful solutions. Every project I take on is a chance to learn and grow, and that’s what keeps me excited about this field.
+  
+</details>
+
+
+
 <br/>
 <hr/>
 <br/>
-
+ <!-- Stats Section -->
+ 
 <p align="center">
   <a href="https://github.com/dkn1ght23">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkn1ght23&theme=radical&border=7F3FBF&background=0D1117" alt="Mujammal's GitHub streak"/>
