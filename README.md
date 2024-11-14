@@ -1,7 +1,7 @@
 
 <!-- Intro -->
 # <a target="_blank" href="https://www.linkedin.com/in/mujammal-ahmed/">Mujammal Ahmed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-**`CodeSmith`**
+**`GHOST`**
 
  <!-- About Section -->
  # About me
